@@ -1,0 +1,156 @@
+{
+  "groups": {
+    "alpha-lab": {
+      "id": "alpha-lab",
+      "name": "Alpha Lab",
+      "focus": "Vật liệu nano ứng dụng y sinh",
+      "description": "Chủ đề tổng quan: vật liệu mới và năng lượng.",
+      "privacy": "private",
+      "size": "small",
+      "host_name": "Tín Ngô",
+      "invite_code": "ALPHA2026",
+      "status": "Đang mở",
+      "created_at": "2026-02-04T13:58:37.268Z",
+      "updated_at": "2026-02-04T13:58:37.268Z"
+    },
+    "nhng-thng-kh-uaqq": {
+      "id": "nhng-thng-kh-uaqq",
+      "name": "những thằng khờ ",
+      "focus": "AI ",
+      "description": "Ứng dụng AI vào học tập",
+      "privacy": "semi",
+      "size": "small",
+      "host_name": "Tín Ngô ",
+      "invite_code": "XCXUAP",
+      "status": "Đang mở",
+      "created_at": "2026-02-04T14:12:26.055Z",
+      "updated_at": "2026-02-04T14:12:26.055Z"
+    }
+  },
+  "topics": {
+    "nano-bio": {
+      "id": "nano-bio",
+      "group_id": "alpha-lab",
+      "title": "Vật liệu nano sinh học",
+      "description": "Y sinh - vật liệu mới",
+      "status": "Đang mở",
+      "created_at": "2026-02-04T13:58:37.268Z",
+      "summary": "",
+      "graph_xml": ""
+    },
+    "energy-storage": {
+      "id": "energy-storage",
+      "group_id": "alpha-lab",
+      "title": "Lưu trữ hydrogen",
+      "description": "Năng lượng tái tạo",
+      "status": "Đang tổng hợp",
+      "created_at": "2026-02-04T13:58:37.268Z",
+      "summary": "",
+      "graph_xml": ""
+    },
+    "ai-protocol": {
+      "id": "ai-protocol",
+      "group_id": "alpha-lab",
+      "title": "AI dự đoán thực nghiệm",
+      "description": "Mô phỏng và tối ưu",
+      "status": "Đang mở",
+      "created_at": "2026-02-04T13:58:37.268Z",
+      "summary": "",
+      "graph_xml": ""
+    },
+    "ng-dng-ai-bmg6": {
+      "id": "ng-dng-ai-bmg6",
+      "group_id": "nhng-thng-kh-uaqq",
+      "title": "Ứng dụng AI ",
+      "description": "",
+      "status": "Đang mở",
+      "created_at": "2026-02-05T03:34:16.798Z",
+      "summary": "Dưới đây là tóm tắt các ý tưởng theo cấu trúc \"tường bậc\" và danh sách từ khóa chính:\n\n- Tự động hóa toàn bộ quy trình dự án bằng Trí tuệ Nhân tạo (AI)\n  - Khai thác tối đa năng lực của AI\n    - Sử dụng AI cho mọi giai đoạn từ lập kế hoạch đến triển khai và giám sát\n      - Bao gồm phân tích yêu cầu, thiết kế giải pháp, phát triển, kiểm thử, triển khai và báo cáo tự động\n  - Mục tiêu là tối ưu hóa hiệu quả và tốc độ\n    - Giảm thiểu sự can thiệp của con người\n      - Tiết kiệm thời gian, chi phí, và tài nguyên nhân lực đáng kể\n  - Cần cơ chế kiểm soát và đánh giá chặt chẽ\n    - Đảm bảo chất lượng và sự phù hợp với mục tiêu ban đầu\n      - Xây dựng các tiêu chí đánh giá, quy trình giám sát tự động và điểm dừng can thiệp thủ công\n- Giao phó toàn bộ trách nhiệm dự án cho một cá nhân duy nhất (Bảo)\n  - Tập trung hóa nguồn lực và chuyên môn\n    - Tận dụng tối đa năng lực, kinh nghiệm và kỹ năng của Bảo\n      - Bao gồm kiến thức chuyên môn, kỹ năng quản lý dự án, và khả năng giải quyết vấn đề độc lập\n  - Đảm bảo tính trách nhiệm cao\n    - Bảo là điểm chịu trách nhiệm duy nhất cho mọi khía cạnh của dự án\n      - Từ lập kế hoạch, thực hiện, đến nghiệm thu và báo cáo kết quả cuối cùng\n  - Cân nhắc rủi ro và cung cấp hỗ trợ cần thiết\n    - Nguy cơ quá tải công việc hoặc thiếu hụt kỹ năng ở một số lĩnh vực cụ thể\n      - Cần có cơ chế hỗ trợ, cố vấn, và dự phòng để Bảo không bị đơn độc hoặc bế tắc\n\nTừ khóa: Tự động hóa dự án; Trí tuệ Nhân tạo; Quản lý dự án AI; Giao phó cá nhân; Trách nhiệm đơn lẻ; Hiệu quả công việc; Rủi ro phụ thuộc; Hỗ trợ nhân lực.",
+      "graph_xml": ""
+    }
+  },
+  "members": {
+    "member-ml83f7pw-10zh": {
+      "id": "member-ml83f7pw-6i5c",
+      "group_id": "alpha-lab",
+      "name": "Tín Ngô",
+      "role": "host",
+      "topic_id": null,
+      "created_at": "2026-02-04T13:58:37.268Z"
+    },
+    "member-ml83wzfh-b3b7": {
+      "id": "member-ml83wzfh-b3b7",
+      "group_id": "nhng-thng-kh-uaqq",
+      "name": "Tín Ngô ",
+      "role": "host",
+      "topic_id": null,
+      "created_at": "2026-02-04T14:12:26.333Z"
+    },
+    "member-ml83y59v-0dv6": {
+      "id": "member-ml83y59v-0dv6",
+      "group_id": "nhng-thng-kh-uaqq",
+      "name": "Cát ",
+      "role": "both",
+      "topic_id": null,
+      "created_at": "2026-02-04T14:13:20.563Z"
+    }
+  },
+  "swot_entries": {
+    "swot-ml8ybd5v-3d5f": {
+      "id": "swot-ml8ybd5v-3d5f",
+      "topic_id": "ng-dng-ai-bmg6",
+      "type": "strengths",
+      "content": "Bảo giỏi",
+      "author": "Thanh vien",
+      "created_at": "2026-02-05T04:23:25.795Z"
+    },
+    "swot-ml8ybnum-n4dv": {
+      "id": "swot-ml8ybnum-n4dv",
+      "topic_id": "ng-dng-ai-bmg6",
+      "type": "opportunities",
+      "content": "Bảo nhà giàu",
+      "author": "Thanh vien",
+      "created_at": "2026-02-05T04:23:39.646Z"
+    },
+    "swot-ml8ybxq7-f82b": {
+      "id": "swot-ml8ybxq7-f82b",
+      "topic_id": "ng-dng-ai-bmg6",
+      "type": "weaknesses",
+      "content": "Bảo cái tôi cao",
+      "author": "Thanh vien",
+      "created_at": "2026-02-05T04:23:52.447Z"
+    },
+    "swot-ml8ycm0j-6fua": {
+      "id": "swot-ml8ycm0j-6fua",
+      "topic_id": "ng-dng-ai-bmg6",
+      "type": "weaknesses",
+      "content": "Bảo hay coi phim lỏ ",
+      "author": "Thanh vien",
+      "created_at": "2026-02-05T04:24:23.923Z"
+    },
+    "swot-ml8ycwxn-7pis": {
+      "id": "swot-ml8ycwxn-7pis",
+      "topic_id": "ng-dng-ai-bmg6",
+      "type": "threats",
+      "content": "Crypto sắp giảm ",
+      "author": "Thanh vien",
+      "created_at": "2026-02-05T04:24:38.075Z"
+    }
+  },
+  "ideas": {
+    "idea-ml8wko2z-f3wm": {
+      "id": "idea-ml8wko2z-f3wm",
+      "topic_id": "ng-dng-ai-bmg6",
+      "content": "Cho AI chạy hết dự án ",
+      "author": "sad",
+      "created_at": "2026-02-05T03:34:40.619Z"
+    },
+    "idea-ml8yd9se-ieom": {
+      "id": "idea-ml8yd9se-ieom",
+      "topic_id": "ng-dng-ai-bmg6",
+      "content": "Cho Bảo làm hết dự án",
+      "author": "Thanh vien",
+      "created_at": "2026-02-05T04:24:54.734Z"
+    }
+  }
+}
