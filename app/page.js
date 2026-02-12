@@ -2,13 +2,17 @@
 
 import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { useEffect, useState } from 'react';
+import { Suspense, useEffect, useState } from 'react';
 import Providers, { useAuth } from './providers';
+
+export const dynamic = 'force-dynamic';
 
 export default function Home() {
   return (
     <Providers>
-      <HomeInner />
+      <Suspense fallback={null}>
+        <HomeInner />
+      </Suspense>
     </Providers>
   );
 }

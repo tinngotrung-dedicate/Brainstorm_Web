@@ -419,7 +419,8 @@ function GroupDashboardInner({ params }) {
                     className={`tab-button ${index === 0 ? 'active' : ''}`}
                     href={`/groups/${groupId}/topics/${topic.id}`}
                   >
-                    {topic.title}
+                    <span>{topic.title}</span>
+                    <span className="tab-sub">{topic.status}</span>
                   </Link>
                 ))}
               </div>
