@@ -968,6 +968,9 @@ a {
   display: grid;
   gap: 12px;
   z-index: 20;
+  max-height: 70vh;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .timer-config {
@@ -1830,12 +1833,13 @@ a {
   position: sticky;
   top: 180px;
   max-height: calc(100vh - 240px);
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .swot-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(240px, 1fr));
+  grid-template-columns: repeat(2, minmax(200px, 1fr));
   gap: 12px;
 }
 
