@@ -550,6 +550,34 @@ a {
   font-size: 22px;
 }
 
+.login-hints {
+  margin-top: 8px;
+  background: rgba(255, 233, 216, 0.45);
+  border: 1px solid var(--stroke);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 13px;
+  color: var(--ink);
+}
+
+.login-hints h4 {
+  margin: 0 0 6px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.login-hints ul {
+  margin: 0 0 6px 18px;
+  padding: 0;
+}
+
+.login-hints code {
+  background: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
 .login-form {
   display: grid;
   gap: 14px;

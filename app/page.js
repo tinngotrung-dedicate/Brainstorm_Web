@@ -98,10 +98,10 @@ function HomeInner() {
               <h1>
                 Không gian nghiên cứu, <span>đăng nhập một chạm</span>
               </h1>
-              <p className="lead">
-                Quản lý nhóm, bác sĩ, lịch hẹn và RAG backend – tất cả trong một nền tảng duy nhất.
-                Bạn có thể đăng nhập, hoặc xem phần giới thiệu ngắn bên cạnh.
-              </p>
+            <p className="lead">
+                Quản lý nhóm và brainstorm – tất cả trong một nền tảng duy nhất. Bạn có thể đăng nhập,
+                hoặc xem phần giới thiệu ngắn bên cạnh.
+            </p>
                 <div className="intro-cards">
                   <div className="intro-card">
                     <h4>Người dùng</h4>
@@ -155,6 +155,16 @@ function HomeInner() {
                 </div>
                 <p className="text-sm">Một vai trò duy nhất: User. Đăng nhập để bắt đầu.</p>
               </form>
+              <div className="login-hints">
+                <h4>Gợi ý tài khoản</h4>
+                <ul>
+                  <li>Email: <code>user@example.com</code></li>
+                  <li>Mật khẩu: <code>bất kỳ</code> (form demo, không kiểm tra)</li>
+                </ul>
+                <p className="muted-text">
+                  Đây là màn hình demo: nhập email bất kỳ và mật khẩu bất kỳ để vào trang nhóm.
+                </p>
+              </div>
             </div>
           </section>
 
